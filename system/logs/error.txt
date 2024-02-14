@@ -1,0 +1,20 @@
+2024-02-12 16:34:23 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 70
+2024-02-12 16:34:36 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 70
+2024-02-12 16:34:52 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 70
+2024-02-12 16:34:55 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 70
+2024-02-12 16:36:16 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 78
+2024-02-12 16:36:16 - PHP Notice:  Undefined variable: action in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 94
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Notice:  Undefined variable: allowedCategories in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
+2024-02-13 14:32:34 - PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\OSPanel\domains\localhost\opencart\catalog\view\theme\default\template\product\special.tpl on line 71
